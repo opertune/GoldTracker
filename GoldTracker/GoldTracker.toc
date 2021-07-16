@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: GoldTracker
+## Author: Opertune
+## Version: 1.0
+## SavedVariablesPerCharacter: GoldTrackerSV
+
+main.lua
